@@ -16,6 +16,7 @@ Install the following Python libraries using pip:
 
 1.   Pillow  : For image processing tasks, such as opening, saving, and resizing images.  
    - Install using:
+     
 '''
 
        pip install Pillow
