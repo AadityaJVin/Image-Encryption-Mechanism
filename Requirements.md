@@ -1,7 +1,7 @@
     Requirements 
 To successfully execute the   Secure Image Encryption and Decryption using AES Algorithm   project, the following requirements must be met. This ensures compatibility and smooth functioning of the software:
 
-     1.   System Requirements    
+     1.   System Requirement
 -   Operating System  : Linux, Windows, or macOS.  
 -   RAM  : At least 4 GB (8 GB recommended for handling large images).  
 -   Storage  : Minimum 500 MB of free disk space.  
@@ -15,8 +15,12 @@ To successfully execute the   Secure Image Encryption and Decryption using AES A
 Install the following Python libraries using pip:  
 
 1.   Pillow  : For image processing tasks, such as opening, saving, and resizing images.  
-   - Install using:  
-     pip install Pillow
+   - Install using:
+'''
+
+       pip install Pillow
+     
+'''
 
 2.   PyCryptodome  : For implementing the AES encryption and decryption algorithms.  
    - Install using:  
